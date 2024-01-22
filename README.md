@@ -1,4 +1,4 @@
-<div style="background-image: url('https://source.unsplash.com/1920x1080/?programming'); height: 300px; background-size: cover; text-align: center; color: white;">
+<div style="background-image: url('https://source.unsplash.com/1920x1080/?programming');">
 
 <h1 align="center">Hi 👋, I'm Ostap</h1>
 <h3 align="center">Front-end developer</h3>
