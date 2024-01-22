@@ -1,4 +1,4 @@
-![Background](https://source.unsplash.com/1920x1080/?programming)
+![Programming Background](https://source.unsplash.com/1920x1080/?programming)
 
 <h1 align="center">Hi 👋, I'm Ostap</h1>
 <h3 align="center">Front-end developer</h3>
