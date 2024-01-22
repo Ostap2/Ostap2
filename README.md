@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ostap</h1>
 <h3 align="center">Front-end developer</h3>
 
-<h3 align="left">To get in touch with me:</h3>
-<p align="left">
+<h3 align="center">To get in touch with me:</h3>
+<p align="center">
  <a href="https://www.linkedin.com/in/ostap-kryven/" target="_blank" rel="noreferrer">Linkedin</a> /
  <a href="https://t.me/Dinnobo" target="_blank" rel="noreferrer">Telegram</a> /
  <a href="mailto:Ostapkriven13@gmail.com" target="_blank" rel="noreferrer">Gmail</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 
