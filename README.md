@@ -1,4 +1,5 @@
-![Programming Background](https://source.unsplash.com/1920x1080/?programming)
+<div style="background-image: url('https://source.unsplash.com/1920x1080/?programming'); background-size: cover; text-align: center; color: white; padding: 100px 0;">
+
 
 <h1 align="center">Hi 👋, I'm Ostap</h1>
 <h3 align="center">Front-end developer</h3>
@@ -43,3 +44,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ostap2&show_icons=true&theme=radical&title_color=a2208a&text_color=ffffff&locale=en&layout=compact" alt="Ostap" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ostap2&show_icons=true&theme=radical&title_color=a2208a&text_color=ffffff&locale=en" alt="Ostap" /></p>
+
+
+</div>
