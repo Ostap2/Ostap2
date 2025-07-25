@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ostap</h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">Project Manager | Front-end developer</h3>
 
 <h3 align="center">To get in touch with me:</h3>
 <p align="center">
